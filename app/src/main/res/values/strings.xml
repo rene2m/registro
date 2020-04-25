@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tarea registro</string>
+    <string name="text_name_1">name :</string>
+    <string name="text_date_1">date :</string>
+    <string name="text_phone_1">phone :</string>
+    <string name="text_email_1">email :</string>
+    <string name="text_description_1">description :</string>
+    <string name="text_name_2">name</string>
+    <string name="text_date_2">date</string>
+    <string name="text_phone_2">phone</string>
+    <string name="text_email_2">email</string>
+    <string name="text_description_2">description</string>
+    <string name="p_name">name</string>
+    <string name="p_date">date</string>
+    <string name="p_phone">phone</string>
+    <string name="p_email">email</string>
+    <string name="p_description">description</string>
+    <string name="edit">edit</string>
+</resources>

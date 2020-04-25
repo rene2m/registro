@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="date_contact">20sp</dimen>
+    <dimen name="top">10sp</dimen>
+    <dimen name="left">10sp</dimen>
+</resources>
